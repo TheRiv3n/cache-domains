@@ -1,3 +1,4 @@
 lancache.steamcontent.com
 st.dl.eccdnx.com
 dl.steam.clngaa.com
+steamcdn-a.akamaihd.net
